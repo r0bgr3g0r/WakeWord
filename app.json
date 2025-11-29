@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "WakeWord",
-    "slug": "wakeword-alarm",
+    "slug": "wakeword",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
